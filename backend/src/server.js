@@ -16,7 +16,7 @@ app.use("/api/inngest", serve({ client: inngest, functions }));
 
 
 app.get("/", (req, res) => {
-    res.send("hello word!00")
+    res.send("hello word!!!9984")
 })
 
 
